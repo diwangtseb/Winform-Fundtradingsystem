@@ -1,0 +1,11 @@
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\CreateEntity.exe.config
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\CreateEntity.exe
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\CreateEntity.pdb
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\Fundtradingsystem.exe
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\SqlSugar.dll
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\Fundtradingsystem.pdb
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\obj\Debug\CreateEntity.csprojResolveAssemblyReference.cache
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\obj\Debug\CreateEntity.exe
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\obj\Debug\CreateEntity.pdb
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\Newtonsoft.Json.dll
+E:\公司\WinForms开发\Fundtradingsystem\CreateEntity\bin\Debug\Newtonsoft.Json.xml

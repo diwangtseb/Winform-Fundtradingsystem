@@ -1,0 +1,15 @@
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\Fundtradingsystem.exe.config
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\Fundtradingsystem.exe
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\Fundtradingsystem.pdb
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.Properties.Resources.resources
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.csproj.GenerateResource.Cache
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.exe
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.pdb
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.Home.resources
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.Login.resources
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.Form2.resources
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\Newtonsoft.Json.dll
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\SqlSugar.dll
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\bin\Debug\Newtonsoft.Json.xml
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.Transaction.resources
+E:\公司\WinForms开发\Fundtradingsystem\Fundtradingsystem\obj\Debug\Fundtradingsystem.csprojResolveAssemblyReference.cache
